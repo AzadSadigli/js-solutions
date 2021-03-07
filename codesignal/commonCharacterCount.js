@@ -1,0 +1,7 @@
+/*
+* @author Azad Sadigli
+*
+* commonCharacterCount
+*
+*/
+
